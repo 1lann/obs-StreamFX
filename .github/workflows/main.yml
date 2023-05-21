@@ -5,6 +5,7 @@ on:
     branches:
       - 'master'
       - 'v0.11'
+      - 'root'
     tags:
       - '*'
   pull_request:
